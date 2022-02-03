@@ -8,4 +8,4 @@ Title: Build a simple steganography app with Python
 Steganography is the art of hiding a secret message in plain sight. We’ll explore how simple Python tools can be used to encode your written message into the pixels of a picture where there will be no perceptible change in the picture. The picture can then be used to pass your message to your friend, who of course has the keys and the software to extract the message. We’ll also use Voila and Jupyter widgets for the User Interface for a basic user-friendly application.
 
 PRESENTER:
-Rick Weitzel is a researcher at the VA Ann Arbor with a focus on ultrasound image processing. He enjoys programming in Python, especially using Python for scientific computing.
+Rick Weitzel has a research focus on ultrasound image processing. He enjoys programming in Python, especially using Python for scientific computing.
