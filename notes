@@ -1,0 +1,13 @@
+commands to install and run:
+(on mac, slightly different on windows)
+
+python3 -m venv env
+source env/bin/activate
+pip install -r requirements.txt
+
+after setting up environment and installing in (pip install) the needed libraries
+remember to:
+export PATH="$HOME/.local/bin:$PATH"
+
+should be able to run the app.
+
