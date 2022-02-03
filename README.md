@@ -11,4 +11,5 @@ PRESENTER:
 Rick Weitzel has a research focus on ultrasound image processing. He enjoys programming in Python, especially using Python for scientific computing.
 
 NOTE: both the teaching notebook and the stand alone voila app (notebook) are included.
+
 NOTE: Requires .tiff images
