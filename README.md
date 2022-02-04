@@ -13,3 +13,5 @@ Rick Weitzel has a research focus on ultrasound image processing. He enjoys prog
 NOTE: both the teaching notebook and the stand alone voila app (notebook) are included.
 
 NOTE: Requires .tiff images
+
+Presentation on YouTube: https://www.youtube.com/watch?v=BVDl9sLeEv8
