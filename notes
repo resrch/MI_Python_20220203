@@ -9,5 +9,6 @@ after setting up environment and installing in (pip install) the needed librarie
 remember to:
 export PATH="$HOME/.local/bin:$PATH"
 
-should be able to run the app.
+should be able to run the app either as a jupyter notebook or voila app
+requires .tiff images (ONLY works for .tiff images)
 
